@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am an Undergraduate B.Tech Computer Science and Engineering Student with Specialisation in Back-end Development and DSA <br><br>🔭 I'm Currently working on Web3 and Android Development technologies <br>⚡ Hackathon enthusiast <br>📞 Contact me for any project collaboration or Backend related contribution <br>
+I am an Undergraduate B.Tech Computer Science and Engineering Student with Specialisation in Back-end Development and Machine Learning<br><br>🔭 I'm Currently working on Generative AI ,Neural Networks and Computer Vison technologies <br>⚡ Hackathon enthusiast <br>📞 Contact me for any project collaboration or Backend related contribution <br>
 
 
 ## 🌐 Socials:
